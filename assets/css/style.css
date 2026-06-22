@@ -26,7 +26,7 @@ section {
     color: white;
     padding: 20px;
     margin: 20px;
-    border: 20px solid lightblue;
+    border: 20px solid gray;
     background-clip: content-box;
 }
 
@@ -35,7 +35,7 @@ article {
     color: white;
     padding: 20px;
     margin: 20px;
-    border: 20px solid lightblue;
+    border: 20px solid gray;
     background-clip: content-box;
 }
 
@@ -44,7 +44,7 @@ aside {
     color: white;
     padding: 20px;
     margin: 20px;
-    border: 20px solid lightblue;
+    border: 20px solid gray;
     background-clip: content-box;
 }
 footer {
@@ -52,6 +52,6 @@ footer {
     color: white;
     padding: 20px;
     margin: 20px;
-    border: 20px solid lightblue;
+    border: 20px solid gray;
     background-clip: content-box;
 }
