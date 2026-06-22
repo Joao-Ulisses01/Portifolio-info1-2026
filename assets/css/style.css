@@ -2,3 +2,11 @@ p {
     font-family: Arial, sans-serif;
      font-size: 14px;
 }
+p {
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin:50px;
+    background-color:blue;
+    background-clip:content-box;
+    color:white
+}
