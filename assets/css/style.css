@@ -1,12 +1,57 @@
 p {
     font-family: Arial, sans-serif;
-     font-size: 14px;
+    font-size: 14px;
 }
-p {
-    border: 10px solid lightblue;
-    padding: 10px;
-    margin:50px;
-    background-color:blue;
-    background-clip:content-box;
-    color:white
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid lightblue;
+    background-clip: content-box;
+}
+
+nav {
+    background-color: orangered;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid lightblue;
+    background-clip: content-box;
+}
+
+section {
+    background-color: yellow;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid lightblue;
+    background-clip: content-box;
+}
+
+article {
+    background-color: lightgreen;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid lightblue;
+    background-clip: content-box;
+}
+
+aside {
+    background-color:purple;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid lightblue;
+    background-clip: content-box;
+}
+footer {
+    background-color: darkslategrey;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px solid lightblue;
+    background-clip: content-box;
 }
