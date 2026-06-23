@@ -1,8 +1,3 @@
-body {
-    color: whitesmoke;
-    font-family: sans-serif;
-    border: 20px solid whitesmoke;
-}
 
 header {
     border: 20px solid lightblue;
@@ -13,7 +8,7 @@ header {
     color: white;
 }
 
-header > nav {
+nav {
     border: 5px solid darkblue;
     padding: 10px;
     margin-top: 20px;
@@ -30,7 +25,7 @@ main {
     background-clip: content-box;
 }
 
-main > section {
+section {
     border: 10px solid grey;
     padding: 20px;
     margin: 10px;
@@ -39,7 +34,7 @@ main > section {
     color: black;
 }
 
-section > article {
+article {
     border: 2px dotted green;
     padding: 15px;
     margin-top: 15px;
