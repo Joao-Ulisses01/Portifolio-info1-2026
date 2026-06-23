@@ -1,57 +1,61 @@
-p {
-    font-family: Arial, sans-serif;
-    font-size: 14px;
+body {
+    color: whitesmoke;
+    font-family: sans-serif;
+    border: 20px solid whitesmoke;
 }
 
 header {
+    border: 20px solid lightblue;
+    padding: 20px;
+    margin: 10px;
     background-color: blue;
     color: white;
-    padding: 20px;
-    margin: 20px;
-    border: 20px solid lightblue;
-    background-clip: content-box;
 }
 
-nav {
-    background-color: orangered;
+header > nav {
+    border: 5px solid darkblue;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: orange;
     color: white;
-    padding: 20px;
-    margin: 20px;
-    border: 20px solid lightblue;
-    background-clip: content-box;
 }
 
-section {
+main {
+    border: 15px solid gainsboro;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+}
+
+main > section {
+    border: 10px solid grey;
+    padding: 20px;
+    margin: 10px;
     background-color: yellow;
-    color: white;
-    padding: 20px;
-    margin: 20px;
-    border: 20px solid gray;
-    background-clip: content-box;
+    color: black;
 }
 
-article {
-    background-color: lightgreen;
-    color: white;
-    padding: 20px;
-    margin: 20px;
-    border: 20px solid gray;
-    background-clip: content-box;
+section > article {
+    border: 2px dotted green;
+    padding: 15px;
+    margin-top: 15px;
+    background-color: greenyellow;
+    color: black;
 }
 
 aside {
-    background-color:purple;
+    border: 10px solid grey; /* faltava ; */
+    padding: 25px;
+    margin: 10px;
+    background-color: purple;
     color: white;
-    padding: 20px;
-    margin: 20px;
-    border: 20px solid gray;
-    background-clip: content-box;
 }
+
 footer {
-    background-color: darkslategrey;
+    border: 5px solid grey;
+    padding: 15px;
+    margin: 10px;
+    background-color: lightseagreen;
     color: white;
-    padding: 20px;
-    margin: 20px;
-    border: 20px solid gray;
-    background-clip: content-box;
+    text-align: center;
 }
