@@ -44,7 +44,7 @@ section > article {
 }
 
 aside {
-    border: 10px solid grey; /* faltava ; */
+    border: 10px solid grey;
     padding: 25px;
     margin: 10px;
     background-color: purple;
