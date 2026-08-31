@@ -1,6 +1,6 @@
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: gray;
   justify-content:center;
   align-items: center;
@@ -10,5 +10,6 @@
   width: 35px;
   height: 35px;
   margin: 75px;
-  padding: 100px;
+  padding: 10px;
 }
+
