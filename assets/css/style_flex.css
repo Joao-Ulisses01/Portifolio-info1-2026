@@ -6,7 +6,7 @@
   align-items: center;
 }
 .quadrado_vermelho {
-  background-color: red;
+  background-color: blue;
   width: 35px;
   height: 35px;
   margin: 75px;
@@ -14,14 +14,14 @@
   align-self: flex-start;
 }
 .quadrado_amarelo {
-  background-color: yellow;
+  background-color: red;
   width: 35px;
   height: 35px;
   margin: 75px;
   padding: 10px;
 }
 .quadrado_azul {
-  background-color: blue;
+  background-color: yellow;
   width: 35px;
   height: 35px;
   margin: 75px;
