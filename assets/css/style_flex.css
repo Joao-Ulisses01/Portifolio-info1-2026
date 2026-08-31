@@ -12,6 +12,7 @@
   margin: 75px;
   padding: 10px;
   justify-content: center;
+  display: flex;
 }
 .quadrado_amarelo {
   background-color: yellow;
@@ -27,5 +28,6 @@
   margin: 75px;
   padding: 10px;
   justify-content: end;
+  display:flex;
 }
 
